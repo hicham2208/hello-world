@@ -6,4 +6,6 @@ This repository is built step by step in the tutorial.
 
 let's edit from github
 
-just inserting another change to test 
+just inserting another change to test
+
+this is the updated we ddid for updated readme
